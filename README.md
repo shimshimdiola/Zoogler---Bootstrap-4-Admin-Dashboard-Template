@@ -27,7 +27,7 @@ Check out the live demo:
 [Zoogler Demo](https://shimshimdiola.github.io/Zoogler---Bootstrap-4-Admin-Dashboard-Template)  
 
 Below is a screenshot from the dashboard:  
-![Zoogler Dashboard Screenshot](https://shimshimdiola.github.io/Zoogler---Bootstrap-4-Admin-Dashboard-Template/assets/images/dashboard.png)  
+![Zoogler Dashboard Screenshot](https://market-resized.envatousercontent.com/themeforest.net/files/380928423/zoogler-590.__large_preview.jpg?auto=format&q=94&cf_fit=crop&gravity=top&h=8000&w=590&s=7c2c9d85d2e7acf0fb78a92d848ea7fc75e5da26c10e89d6e076e1d45cbb0fd8)  
 *(Replace path with actual screenshot path if available)*
 
 ---
